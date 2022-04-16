@@ -1,0 +1,28 @@
+{
+  "name": "learning_typescript",
+  "version": "1.0.0",
+  "description": "This is a package of typescript tests and learning attempts I have put together.",
+  "private": true,
+  "dependencies": {
+    "babylonjs": "^5.2.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.2.8",
+    "typescript": "^4.6.3",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzrielMM/learning_typescript.git"
+  },
+  "author": "Azriel Borgeson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzrielMM/learning_typescript/issues"
+  },
+  "homepage": "https://github.com/AzrielMM/learning_typescript#readme"
+}
